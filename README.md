@@ -38,7 +38,7 @@ The application follows a simple yet effective NLP pipeline:
 ## How to Run Locally
 - Clone the repository:
 Bash
-git clone https://github.com/cbonnin88/hiresight.git
+git clone https://github.com/cbonnin88/Talent-Analysis.git
 cd hiresight
 
 - Install dependencies:
